@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shailendra9752
+- 👋 Hi, I’m Shailendra 
 - 👀 I’m interested in mern stack and AI technologies
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on this Platform
